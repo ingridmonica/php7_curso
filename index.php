@@ -43,10 +43,14 @@
       <input type="password" class="form-control" id="floatingPassword" name="senha" placeholder="Senha">
       <label for="floatingPassword">Senha</label>
     </div>
+    <br>
+    
+    <button class="w-100 btn btn-lg btn-dark" type="submit" name="bt_entrar">Entrar</button>
+
     <div class='alert'> Não tem login? <a class='btn btn-warning' href='cadastrar-usuario.php'> Cadastre-se </a> </div>
 
-    <button class="w-100 btn btn-lg btn-dark" type="submit" name="bt_entrar">Entrar</button>
     <p class="mt-5 mb-3 "> Ingrid Mônica &copy; 2023</p>
+
   </form>
 </main>
  
